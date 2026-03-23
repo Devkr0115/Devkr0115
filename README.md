@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I%27m%20Dev%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20Web%20%26%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I%27m%20Dev&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20Web%20and%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev0115/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/k8Ak8JHppg/)
@@ -79,7 +79,7 @@ dev = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Devkr0115&theme=discord&no-frame=true&no-bg=true&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Devkr0115&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10"/>
 
 </div>
 
